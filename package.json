@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "invoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tavily/core": "^0.6.3",
+    "dotenv": "^17.2.3",
+    "openai": "^6.15.0"
+  }
+}
